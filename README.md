@@ -6,11 +6,6 @@
 
 
 
-
-
-
-
-
 ## 🧠 ABOUT
 
 Software Engineering student from Ethiopia building **AI systems, automation tools, and scalable web applications**.
@@ -64,43 +59,26 @@ Software Engineering student from Ethiopia building **AI systems, automation too
 
 ---
 
-## 🏆 TROPHIES
 
-<p align="center">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=lidetalem&theme=algolia&row=1&margin-w=10" />
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lidetalem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:incognitoprism@gmail.com) 
 
-## 📫 CONTACT
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=lidetalem&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=lidetalem&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=lidetalem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <a href="mailto:incognitoprism@gmail.com">
-    <img height="45" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/lidetalem">
-    <img height="45" src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/lidet-alem-9a744a354">
-    <img height="45" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://t.me/lidetalem">
-    <img height="45" src="https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram" />
-  </a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lidetalem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=lidetalem&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lidetalem/lidetalem/main/dist/snake.svg" />
-</p>
+[![](https://komarev.com/ghpvc/?username=lidetalem&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lidetalem&theme=tokyo-night" />
-</p>
-
-
-<p align="center">
-  <img height="30" src="https://komarev.com/ghpvc/?username=lidetalem&label=PROFILE+VIEWS&color=00ffcc&style=flat" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
