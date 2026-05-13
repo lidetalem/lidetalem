@@ -4,6 +4,13 @@
 
 ---
 
+
+
+
+
+
+
+
 ## 🧠 ABOUT
 
 Software Engineering student from Ethiopia building **AI systems, automation tools, and scalable web applications**.
@@ -83,6 +90,16 @@ Software Engineering student from Ethiopia building **AI systems, automation too
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lidetalem/lidetalem/main/dist/snake.svg" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lidetalem&theme=tokyo-night" />
+</p>
+
 
 <p align="center">
   <img height="30" src="https://komarev.com/ghpvc/?username=lidetalem&label=PROFILE+VIEWS&color=00ffcc&style=flat" />
