@@ -1,3 +1,7 @@
+<div><h1 align="center">
+  Welcome 👋
+</h1></div>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=700&color=00FFCC&center=true&vCenter=true&width=1100&height=80&lines=HEY+I+AM+LIDET+ALEM;FULL-STACK+SOFTWARE+ENGINEER;AI+AUTOMATION+BUILDER;COMPUTER+VISION+ENGINEER;SYSTEM+DESIGN+ENTHUSIAST;CYBERPUNK+MODE+ACTIVATED" />
 </p>
